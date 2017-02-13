@@ -46,7 +46,7 @@
   <run_depend>rcll_pddl_domain</run_depend>
   <run_depend>rcll_to_predicates</run_depend>
   <run_depend>rosplan_planning_system</run_depend>
-
+  <run_depend>rosplan_interface_behaviorengine</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>

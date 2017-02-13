@@ -29,5 +29,6 @@
 
         <!-- interfaces -->
 	<include file="$(find rcll_to_predicates)/launch/rosplan_state_estimator.launch" />
+        <node name="behavior_engine_interface" pkg="rosplan_interface_behaviorengine" type="rosplan_interface_behaviorengine"/>
 
 </launch>
